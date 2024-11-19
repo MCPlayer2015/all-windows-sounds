@@ -1,4 +1,4 @@
-I made this because there was no database that contained every since Windows sound ever to exist
+I made this because no database conveniently contained every Windows sound.
 
 © 1992-2021 Microsoft
-(I don't own any of the audio featured here)
+(I don't own any of the audio featured here.)
